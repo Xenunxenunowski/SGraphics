@@ -1,2 +1,2 @@
 # SGraphics
-Simple to use library for playing with graphics stuff
+Simple to use Rust library for playing with graphics stuff
